@@ -147,3 +147,5 @@ function displayFriends() {
 displayMessage();
 displayMushrooms();
 displayFriends();
+
+//adding small note for late deployment of Netlify... Sorrrrryyyyyy
